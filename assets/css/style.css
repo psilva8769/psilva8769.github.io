@@ -551,3 +551,29 @@ section {
   opacity: 1;
   bottom: 0;
 }
+
+.spotify-project {
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+}
+
+.spotify-project-img {
+  max-width: 50%;
+}
+
+.isops-challenge-project {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.isops-challenge-img {
+  max-width: 50%;
+}
+
+hr {
+  display: block;
+  margin: 2em;
+}
